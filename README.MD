@@ -35,18 +35,8 @@ An independent geospatial platform that brings together environmental and disast
 | Geospatial | Leaflet, QGIS, ArcGIS |
 | Infrastructure | Docker, CI/CD, AWS, GCP, Azure, Vercel |
 
-### Public projects
-
-**[Task Manager API](https://github.com/1stdeddy2nd/task-manager-api)**
-
-A REST API built with Go, Gin, GORM, and PostgreSQL, featuring JWT authentication and task management.
-
-**[Task Manager Frontend](https://github.com/1stdeddy2nd/task-manager-fe)**
-
-A TypeScript frontend for managing tasks, built with Vite and Tailwind CSS.
-
 ### Let's connect
 
 I'm interested in remote engineering opportunities and collaborating on useful products, especially those involving backend systems, geospatial technology, and data.
 
-[LinkedIn](https://www.linkedin.com/in/ded067/) · [Website](https://petasaturuang.com) · [Email](mailto:deddysetiawan17@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/ded067/) · [Website](https://petasaturuang.com) · [Email](mailto:deddysetiawan17@petasaturuang.com)
